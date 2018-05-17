@@ -448,7 +448,7 @@
 				TargetAttributes = {
 					9EBDD0D81DBC5B1F0037C9F4 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 5F4776WD6T;
+						DevelopmentTeam = R27MT28R2X;
 						ProvisioningStyle = Automatic;
 					};
 					9EBDD1151DBCA71C0037C9F4 = {
@@ -755,7 +755,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5F4776WD6T;
+				DEVELOPMENT_TEAM = R27MT28R2X;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Vendor/HockeySDK/Vendor",
@@ -915,7 +915,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5F4776WD6T;
+				DEVELOPMENT_TEAM = R27MT28R2X;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Vendor/HockeySDK/Vendor",
@@ -936,7 +936,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5F4776WD6T;
+				DEVELOPMENT_TEAM = R27MT28R2X;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Vendor/HockeySDK/Vendor",
